@@ -22,5 +22,4 @@ int main()
    int a,b;
    cin>>a>>b;
    solve(a,b);
-   return 0;
-}
+   return 0;}
